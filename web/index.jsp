@@ -26,6 +26,7 @@
   <a href="<%=request.getContextPath()%>/random.jsp">Random Number</a>
   <br>
   <a href="<%=request.getContextPath()%>/user.html">User Form</a>
-
+  <br>
+  <a href="<%=request.getContextPath()%>/demo">Demo JSP</a>
   </body>
 </html>
